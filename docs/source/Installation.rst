@@ -74,7 +74,7 @@ Open the config file ``Patronus/config/config.py`` and set the values for the fo
      - ✅  
    * - SSH_PASSWORD
      - Password for the SSH Key
-     - ✅  
+     -   
    * - BITBUCKET_USERNAME
      - Username for the bitbucket account
      - ✅
@@ -95,16 +95,16 @@ Open the config file ``Patronus/config/config.py`` and set the values for the fo
      - ✅
    * - PATRONUS_SLACK_WEB_HOOK_URL
      - Slack incoming webhook URL
-     - ✅
+     - 
    * - PATRONUS_DOWNLOAD_LOCATION
      - Download location to clone all the repos from the bitbucket
      - ✅
    * - JIRA_URL
      - Jira Project URL
-     - ✅
+     - 
    * - JIRA_TOKEN
      - Jira Project name
-     - ✅
+     - 
    * - PATRONUS_CVSS_SCORE_FILTER
      - Minimum CVSS score
      - ✅
